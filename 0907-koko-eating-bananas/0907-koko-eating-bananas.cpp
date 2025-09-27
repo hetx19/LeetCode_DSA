@@ -14,7 +14,7 @@ public:
         long long int time_hours = 0;
 
         for(int i = 0; i < arr.size(); i++) {
-            time_hours += ceil((double)(arr[i]) / (double)(rate));
+            time_hours += (arr[i] + rate - 1)/rate;
         }
 
         return time_hours;
