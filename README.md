@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hetx19/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hetx19/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hetx19/LeetCode_DSA/tree/master/0342-power-of-four) |
+| [1642-water-bottles](https://github.com/hetx19/LeetCode_DSA/tree/master/1642-water-bottles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0410-split-array-largest-sum) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/hetx19/LeetCode_DSA/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
