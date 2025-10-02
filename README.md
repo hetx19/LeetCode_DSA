@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hetx19/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/hetx19/LeetCode_DSA/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/hetx19/LeetCode_DSA/tree/master/2048-build-array-from-permutation) |
 | [3336-water-bottles-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3336-water-bottles-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
