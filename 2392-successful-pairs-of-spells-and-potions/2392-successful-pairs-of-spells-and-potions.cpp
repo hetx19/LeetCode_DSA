@@ -6,15 +6,25 @@ public:
 
         // Sorting potions array
         sort(potions.begin(), potions.end());
-        int index = 0;
 
-        for(int spell : spells) {
-            long long minPotionPower = (success + spell - 1) / spell;
+        for(int i = 0; i < m; i++) {
+            long long minPotionPower = (success + spells[i] - 1) / spells[i];
             int low = 0, high = n - 1;
-            auto firstOccurrence = lower_bound(potions.begin(), potions.end(), minPotionPower);
+            int firstOccurrence = n;
 
-            int count = n - static_cast<int>(firstOccurrence - potions.begin());
-            ans[index++] = count;
+            while(low <= high) {
+                int mid = low + ((high - low) >> 1);
+            
+                if ((long long) potions[mid] >= minPotionPower) {
+                    firstOccurrence = mid;
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
+                }
+            }
+
+            int count = n - firstOccurrence;
+            ans[i] = count;
         }
 
         return ans;
