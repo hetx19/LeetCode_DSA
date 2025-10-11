@@ -1,15 +1,13 @@
 class Solution {
 public:
     int maximumEnergy(vector<int>& energy, int k) {
-        int maxEnergy = INT_MIN;
         int n = energy.size();
+        vector<int> dp(n);
+        int maxEnergy = INT_MIN;
 
-        for(int i = n - k; i < n; i++) {
-            int totalEnergy = 0;
-            for (int j = i; j >= 0; j -= k) {
-                totalEnergy += energy[j];
-                maxEnergy = max(maxEnergy, totalEnergy);
-            }
+        for(int i = n - 1; i >= 0; i--) {
+            dp[i] = energy[i] + ((i + k < n) ? dp[i + k] : 0);
+            maxEnergy = max(maxEnergy, dp[i]);
         }
 
         return maxEnergy;
