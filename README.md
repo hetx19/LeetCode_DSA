@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/hetx19/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hetx19/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Geometry
