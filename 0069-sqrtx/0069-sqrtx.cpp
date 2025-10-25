@@ -10,7 +10,7 @@ public:
         
         while(low <= high) {
             long long int mid = low + ((high - low) >> 1);
-            long long int sq_value = pow(mid, 2);
+            long long int sq_value = mid * mid;
             
             if(sq_value <= x) {
                 ans = mid;
