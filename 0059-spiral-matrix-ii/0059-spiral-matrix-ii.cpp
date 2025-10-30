@@ -10,31 +10,32 @@ public:
 
        while(left <= right && top <= bottom) {
         // left to right
-        for(int i = top; i <= bottom; i++) {
-            ans[left][i] = ++num;
+        for(int i = left; i <= right; i++) {
+            ans[top][i] = ++num;
         }
+        top++;
 
         // top to bottom
-        for(int i = left + 1; i <= bottom; i++) {
-            ans[i][bottom] = ++num;
+        for(int i = top; i <= bottom; i++) {
+            ans[i][right] = ++num;
         }
-
-        if(left < right && top < bottom) {
-            // right to left
-            for(int i = right - 1; i > left; i--) {
-                ans[right][i] = ++num;
-            }
-
-            // bottom to top
-            for(int i = right; i > left; i--) {
-                ans[i][top] = ++num;
-            }
-        }
-
-        left++;
         right--;
-        top++;
-        bottom--;
+
+        if(top <= bottom) {
+            // right to left
+            for(int i = right; i >= left; i--) {
+                ans[bottom][i] = ++num;
+            }
+            bottom--;
+        }
+
+        if(left <= right) {
+            // bottom to top
+            for(int i = bottom; i >= top; i--) {
+                ans[i][left] = ++num;
+            }
+            left++;
+        }
        }
 
        return ans;
