@@ -11,11 +11,13 @@
  */
 class Solution {
 public:
-    void preOrder(TreeNode* root, vector<int>& ans) {
+    void preOrder(TreeNode * root, vector<int> &ans) {
         if(root == nullptr) {
             return;
         }
+
         ans.push_back(root->val);
+
         preOrder(root->left, ans);
         preOrder(root->right, ans);
     }
