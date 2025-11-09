@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/hetx19/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/hetx19/LeetCode_DSA/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hetx19/LeetCode_DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/hetx19/LeetCode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/hetx19/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/hetx19/LeetCode_DSA/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3336-water-bottles-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/hetx19/LeetCode_DSA/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/hetx19/LeetCode_DSA/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/hetx19/LeetCode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
