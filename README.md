@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hetx19/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/hetx19/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/hetx19/LeetCode_DSA/tree/master/0120-triangle) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/hetx19/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/hetx19/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/hetx19/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/hetx19/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/hetx19/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
