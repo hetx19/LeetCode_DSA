@@ -11,8 +11,8 @@
  */
 class Solution {
 private:
-    int height(TreeNode* node, int& diameter) {
-        if(node == nullptr) {
+    int height(TreeNode * node, int &diameter) {
+        if(node == NULL) {
             return 0;
         }
 
@@ -23,6 +23,7 @@ private:
 
         return 1 + max(lh, rh);
     }
+
 public:
     int diameterOfBinaryTree(TreeNode* root) {
         int diameter = 0;
