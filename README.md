@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/hetx19/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/hetx19/LeetCode_DSA/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hetx19/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3453-separate-squares-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3453-separate-squares-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hetx19/LeetCode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hetx19/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3453-separate-squares-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Divide and Conquer
 |  |
