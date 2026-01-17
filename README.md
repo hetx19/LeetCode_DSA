@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hetx19/LeetCode_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1470-shuffle-the-array](https://github.com/hetx19/LeetCode_DSA/tree/master/1470-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hetx19/LeetCode_DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/2047-find-a-peak-element-ii) |
