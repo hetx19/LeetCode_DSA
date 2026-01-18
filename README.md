@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hetx19/LeetCode_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hetx19/LeetCode_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/hetx19/LeetCode_DSA/tree/master/1470-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hetx19/LeetCode_DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hetx19/LeetCode_DSA/tree/master/0645-set-mismatch) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hetx19/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3321-type-of-triangle](https://github.com/hetx19/LeetCode_DSA/tree/master/3321-type-of-triangle) |
 ## Binary Search
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hetx19/LeetCode_DSA/tree/master/0645-set-mismatch) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2169-simple-bank-system](https://github.com/hetx19/LeetCode_DSA/tree/master/2169-simple-bank-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/hetx19/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hetx19/LeetCode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
