@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hetx19/LeetCode_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1441-build-an-array-with-stack-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/hetx19/LeetCode_DSA/tree/master/1470-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hetx19/LeetCode_DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1646-kth-missing-positive-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/0898-transpose-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/hetx19/LeetCode_DSA/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/hetx19/LeetCode_DSA/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
 |  |
 | ------- |
