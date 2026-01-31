@@ -15,6 +15,14 @@ public:
             return nullptr;
         }
 
+        if (root == p) {
+            return p;
+        }
+
+        if (root == q) {
+            return q;
+        }
+
         int curr = root->val;
         if (curr < p->val && curr < q->val) {
             return lowestCommonAncestor(root->right, p, q);
