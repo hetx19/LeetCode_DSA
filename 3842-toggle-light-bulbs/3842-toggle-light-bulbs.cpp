@@ -2,16 +2,16 @@ class Solution {
 public:
     vector<int> toggleLightBulbs(vector<int>& bulbs) {
         int n = bulbs.size();
-        vector<int> ans;
-        map<int, int> mpp;
+        vector<bool> isON(101, false);
 
         for (int i = 0; i < n; i++) {
-            mpp[bulbs[i]]++;
+            isON[bulbs[i]] = !isON[bulbs[i]];
         }
 
-        for (auto it : mpp) {
-            if ((it.second) & 1) {
-                ans.push_back(it.first);
+        vector<int> ans;
+        for (int i = 0; i < 101; i++) {
+            if (isON[i]) {
+                ans.push_back(i);
             }
         }
 
