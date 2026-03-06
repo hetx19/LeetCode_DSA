@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-bitwise-or-from-grid">4161. Minimum Bitwise OR From Grid</a></h2><h3>Medium</h3><hr><p>You are given a 2D integer array <code>grid</code> of size <code>m x n</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-bitwise-or-from-grid">3858. Minimum Bitwise OR From Grid</a></h2><h3>Medium</h3><hr><p>You are given a 2D integer array <code>grid</code> of size <code>m x n</code>.</p>
 
 <p>You must select <strong>exactly one</strong> integer from each row of the grid.</p>
 
