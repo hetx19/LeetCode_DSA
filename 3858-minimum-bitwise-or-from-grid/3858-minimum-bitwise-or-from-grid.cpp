@@ -1,34 +1,27 @@
 class Solution {
 public:
     int minimumOR(vector<vector<int>>& grid) {
-        int ans = 0, forb = 0;
+        int ans = (1 << 20) - 1;
 
-        for (int bit = 31; bit >= 0; bit--) {
-            int test = forb | (1 << bit);
+        for (int bit = 19; bit >= 0; bit--) {
+            int nans = ans ^ (1 << bit);
+            bool isPossible = true;
 
-            bool possible = true;
-
-            for (auto row : grid) {
-                bool found = false;
-
-                for (int num : row) {
-                    if ((num & test) == 0) {
-                        found = true;
-                        break;
+            for (auto &row : grid) {
+                bool sub = false;
+                for (auto num : row) {
+                    if ((nans | num) == nans) {
+                        sub = true;
                     }
                 }
-
-                if (!found) {
-                    possible = false;
-                    break;
+                if (!sub) {
+                    isPossible = false;
                 }
             }
-
-            if (possible) {
-                forb = test;
-            } else {
-                ans |= (1 << bit);
+            if (!isPossible) {
+                continue;
             }
+            ans = nans;
         }
 
         return ans;
