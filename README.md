@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/hetx19/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/hetx19/LeetCode_DSA/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/hetx19/LeetCode_DSA/tree/main/0868-binary-gap/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hetx19/LeetCode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hetx19/LeetCode_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/3676-smallest-number-with-all-set-bits) |
