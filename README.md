@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/hetx19/LeetCode_DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hetx19/LeetCode_DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1646-kth-missing-positive-number) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hetx19/LeetCode_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hetx19/LeetCode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/hetx19/LeetCode_DSA/tree/master/2048-build-array-from-permutation) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/hetx19/LeetCode_DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hetx19/LeetCode_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2047-find-a-peak-element-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/hetx19/LeetCode_DSA/tree/master/2737-row-with-maximum-ones) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hetx19/LeetCode_DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
