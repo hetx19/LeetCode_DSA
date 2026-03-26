@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/hetx19/LeetCode_DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/hetx19/LeetCode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3804-number-of-centered-subarrays](https://github.com/hetx19/LeetCode_DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/hetx19/LeetCode_DSA/tree/master/3828-final-element-after-subarray-deletions) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetx19/LeetCode_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hetx19/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3643-flip-square-submatrix-vertically](https://github.com/hetx19/LeetCode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/hetx19/LeetCode_DSA/tree/master/2737-row-with-maximum-ones) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hetx19/LeetCode_DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/hetx19/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3643-flip-square-submatrix-vertically](https://github.com/hetx19/LeetCode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
