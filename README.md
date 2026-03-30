@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hetx19/LeetCode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hetx19/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3321-type-of-triangle](https://github.com/hetx19/LeetCode_DSA/tree/master/3321-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/hetx19/LeetCode_DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/hetx19/LeetCode_DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [2169-simple-bank-system](https://github.com/hetx19/LeetCode_DSA/tree/master/2169-simple-bank-system) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/hetx19/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hetx19/LeetCode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hetx19/LeetCode_DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hetx19/LeetCode_DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
