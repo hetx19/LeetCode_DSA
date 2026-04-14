@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
