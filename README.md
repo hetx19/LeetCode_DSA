@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/hetx19/LeetCode_DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hetx19/LeetCode_DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/hetx19/LeetCode_DSA/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hetx19/LeetCode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/hetx19/LeetCode_DSA/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/hetx19/LeetCode_DSA/tree/master/3828-final-element-after-subarray-deletions) |
