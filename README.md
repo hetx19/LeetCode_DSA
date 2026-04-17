@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/0493-reverse-pairs) |
+| [1382-balance-a-binary-search-tree](https://github.com/hetx19/LeetCode_DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Binary Indexed Tree
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0410-split-array-largest-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/hetx19/LeetCode_DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hetx19/LeetCode_DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/hetx19/LeetCode_DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hetx19/LeetCode_DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/hetx19/LeetCode_DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/hetx19/LeetCode_DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hetx19/LeetCode_DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/hetx19/LeetCode_DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/hetx19/LeetCode_DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
