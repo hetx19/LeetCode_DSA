@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/hetx19/LeetCode_DSA/tree/master/3828-final-element-after-subarray-deletions) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/hetx19/LeetCode_DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/hetx19/LeetCode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
