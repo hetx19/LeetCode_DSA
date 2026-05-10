@@ -1,11 +1,15 @@
 class Solution {
 public:
     vector<int> concatWithReverse(vector<int>& nums) {
-        vector<int> ans = nums;
+        vector<int> ans;
         int n = nums.size();
 
-        for (int i = n - 1; i >= 0; i--) {
-            ans.push_back(ans[i]);
+        for (int i = 0; i < 2 * n; i++) {
+            if (i < n) {
+                ans.push_back(nums[i]);
+            } else {
+                ans.push_back(nums[(2 * n) - i - 1]);
+            }
         }
 
         return ans;
