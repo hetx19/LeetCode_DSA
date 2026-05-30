@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hetx19/LeetCode_DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/hetx19/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/hetx19/LeetCode_DSA/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hetx19/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/hetx19/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hetx19/LeetCode_DSA/tree/master/0326-power-of-three) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/hetx19/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/hetx19/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
