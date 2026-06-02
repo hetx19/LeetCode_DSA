@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hetx19/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hetx19/LeetCode_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/hetx19/LeetCode_DSA/tree/master/0792-binary-search) |
+| [0827-making-a-large-island](https://github.com/hetx19/LeetCode_DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [0830-largest-triangle-area](https://github.com/hetx19/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/hetx19/LeetCode_DSA/tree/master/0907-koko-eating-bananas) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/hetx19/LeetCode_DSA/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/hetx19/LeetCode_DSA/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/hetx19/LeetCode_DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [0898-transpose-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/hetx19/LeetCode_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/hetx19/LeetCode_DSA/tree/main/1020-number-of-enclaves/) | Medium |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/hetx19/LeetCode_DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hetx19/LeetCode_DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/hetx19/LeetCode_DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0827-making-a-large-island](https://github.com/hetx19/LeetCode_DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [1020-number-of-enclaves](https://github.com/hetx19/LeetCode_DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hetx19/LeetCode_DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/hetx19/LeetCode_DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hetx19/LeetCode_DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/hetx19/LeetCode_DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0827-making-a-large-island](https://github.com/hetx19/LeetCode_DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/hetx19/LeetCode_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/hetx19/LeetCode_DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/hetx19/LeetCode_DSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/hetx19/LeetCode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/hetx19/LeetCode_DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0827-making-a-large-island](https://github.com/hetx19/LeetCode_DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [1020-number-of-enclaves](https://github.com/hetx19/LeetCode_DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hetx19/LeetCode_DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/hetx19/LeetCode_DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
