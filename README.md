@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hetx19/LeetCode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hetx19/LeetCode_DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hetx19/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0410-split-array-largest-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/hetx19/LeetCode_DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hetx19/LeetCode_DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Prefix Sum
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/hetx19/LeetCode_DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [2169-simple-bank-system](https://github.com/hetx19/LeetCode_DSA/tree/master/2169-simple-bank-system) |
 | [2540-minimum-common-value](https://github.com/hetx19/LeetCode_DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/hetx19/LeetCode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hetx19/LeetCode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hetx19/LeetCode_DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hetx19/LeetCode_DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
