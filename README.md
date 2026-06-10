@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/hetx19/LeetCode_DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/hetx19/LeetCode_DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3886-sum-of-sortable-integers](https://github.com/hetx19/LeetCode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/hetx19/LeetCode_DSA/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hetx19/LeetCode_DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/hetx19/LeetCode_DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hetx19/LeetCode_DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/hetx19/LeetCode_DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
