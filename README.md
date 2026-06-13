@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/hetx19/LeetCode_DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/hetx19/LeetCode_DSA/tree/master/3828-final-element-after-subarray-deletions) |
+| [3838-weighted-word-mapping](https://github.com/hetx19/LeetCode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/hetx19/LeetCode_DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/hetx19/LeetCode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3336-water-bottles-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/hetx19/LeetCode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
+| [3838-weighted-word-mapping](https://github.com/hetx19/LeetCode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
