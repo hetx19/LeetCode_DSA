@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/hetx19/LeetCode_DSA/tree/main/0127-word-ladder/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0645-set-mismatch](https://github.com/hetx19/LeetCode_DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetx19/LeetCode_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/hetx19/LeetCode_DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/hetx19/LeetCode_DSA/tree/main/0127-word-ladder/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/hetx19/LeetCode_DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0696-count-binary-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0721-accounts-merge](https://github.com/hetx19/LeetCode_DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
@@ -664,4 +667,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/hetx19/LeetCode_DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hetx19/LeetCode_DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hetx19/LeetCode_DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
