@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/hetx19/LeetCode_DSA/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/3821-find-nth-smallest-integer-with-k-one-bits/) | Hard |
 | [3828-final-element-after-subarray-deletions](https://github.com/hetx19/LeetCode_DSA/tree/master/3828-final-element-after-subarray-deletions) |
 | [3886-sum-of-sortable-integers](https://github.com/hetx19/LeetCode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bit Manipulation
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hetx19/LeetCode_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hetx19/LeetCode_DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3676-smallest-number-with-all-set-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/3821-find-nth-smallest-integer-with-k-one-bits/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/3821-find-nth-smallest-integer-with-k-one-bits/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
