@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/hetx19/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hetx19/LeetCode_DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/hetx19/LeetCode_DSA/tree/main/0062-unique-paths/) | Medium |
 | [0120-triangle](https://github.com/hetx19/LeetCode_DSA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/hetx19/LeetCode_DSA/tree/master/0152-maximum-product-subarray) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hetx19/LeetCode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hetx19/LeetCode_DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/hetx19/LeetCode_DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/hetx19/LeetCode_DSA/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/hetx19/LeetCode_DSA/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hetx19/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/hetx19/LeetCode_DSA/tree/main/0062-unique-paths/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/3821-find-nth-smallest-integer-with-k-one-bits/) | Hard |
 ## Number Theory
