@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/3821-find-nth-smallest-integer-with-k-one-bits/) | Hard |
 | [3828-final-element-after-subarray-deletions](https://github.com/hetx19/LeetCode_DSA/tree/master/3828-final-element-after-subarray-deletions) |
 | [3886-sum-of-sortable-integers](https://github.com/hetx19/LeetCode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/hetx19/LeetCode_DSA/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
 | [3838-weighted-word-mapping](https://github.com/hetx19/LeetCode_DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/hetx19/LeetCode_DSA/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/hetx19/LeetCode_DSA/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/hetx19/LeetCode_DSA/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
