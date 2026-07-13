@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hetx19/LeetCode_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1463-cherry-pickup-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1470-shuffle-the-array](https://github.com/hetx19/LeetCode_DSA/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/hetx19/LeetCode_DSA/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hetx19/LeetCode_DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1463-cherry-pickup-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hetx19/LeetCode_DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/hetx19/LeetCode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/hetx19/LeetCode_DSA/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/hetx19/LeetCode_DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hetx19/LeetCode_DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1463-cherry-pickup-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/hetx19/LeetCode_DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
