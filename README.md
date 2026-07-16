@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/hetx19/LeetCode_DSA/tree/main/1291-sequential-digits/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/hetx19/LeetCode_DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/hetx19/LeetCode_DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
