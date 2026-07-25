@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/hetx19/LeetCode_DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3321-type-of-triangle](https://github.com/hetx19/LeetCode_DSA/tree/master/3321-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/hetx19/LeetCode_DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/hetx19/LeetCode_DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3886-sum-of-sortable-integers](https://github.com/hetx19/LeetCode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/hetx19/LeetCode_DSA/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/hetx19/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/hetx19/LeetCode_DSA/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3336-water-bottles-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/hetx19/LeetCode_DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hetx19/LeetCode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hetx19/LeetCode_DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3676-smallest-number-with-all-set-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/3676-smallest-number-with-all-set-bits) |
