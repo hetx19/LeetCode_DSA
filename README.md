@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/hetx19/LeetCode_DSA/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hetx19/LeetCode_DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/hetx19/LeetCode_DSA/tree/main/0127-word-ladder/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/hetx19/LeetCode_DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0696-count-binary-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0721-accounts-merge](https://github.com/hetx19/LeetCode_DSA/tree/main/0721-accounts-merge/) | Medium |
