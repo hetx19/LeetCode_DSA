@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/hetx19/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0827-making-a-large-island](https://github.com/hetx19/LeetCode_DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [0830-largest-triangle-area](https://github.com/hetx19/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/hetx19/LeetCode_DSA/tree/main/0877-stone-game/) | Medium |
 | [0898-transpose-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/hetx19/LeetCode_DSA/tree/master/0907-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/hetx19/LeetCode_DSA/tree/master/0994-rotting-oranges) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/hetx19/LeetCode_DSA/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hetx19/LeetCode_DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0877-stone-game](https://github.com/hetx19/LeetCode_DSA/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/hetx19/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hetx19/LeetCode_DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0830-largest-triangle-area](https://github.com/hetx19/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/hetx19/LeetCode_DSA/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/hetx19/LeetCode_DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1642-water-bottles](https://github.com/hetx19/LeetCode_DSA/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hetx19/LeetCode_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/hetx19/LeetCode_DSA/tree/main/0877-stone-game/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/hetx19/LeetCode_DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Iterator
 | Problem Name | Difficulty |
