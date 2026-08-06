@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/hetx19/LeetCode_DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hetx19/LeetCode_DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/hetx19/LeetCode_DSA/tree/main/0877-stone-game/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0721-accounts-merge](https://github.com/hetx19/LeetCode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hetx19/LeetCode_DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -796,4 +798,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/hetx19/LeetCode_DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 <!---LeetCode Topics End-->
