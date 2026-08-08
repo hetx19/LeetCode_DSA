@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/hetx19/LeetCode_DSA/tree/main/0877-stone-game/) | Medium |
 | [0898-transpose-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/hetx19/LeetCode_DSA/tree/master/0907-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/hetx19/LeetCode_DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0994-rotting-oranges](https://github.com/hetx19/LeetCode_DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/hetx19/LeetCode_DSA/tree/main/1020-number-of-enclaves/) | Medium |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0410-split-array-largest-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/hetx19/LeetCode_DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/hetx19/LeetCode_DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/hetx19/LeetCode_DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/hetx19/LeetCode_DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetx19/LeetCode_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/hetx19/LeetCode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hetx19/LeetCode_DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/hetx19/LeetCode_DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/hetx19/LeetCode_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
