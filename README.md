@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hetx19/LeetCode_DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/hetx19/LeetCode_DSA/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/hetx19/LeetCode_DSA/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/hetx19/LeetCode_DSA/tree/master/0231-power-of-two) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0078-subsets](https://github.com/hetx19/LeetCode_DSA/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
