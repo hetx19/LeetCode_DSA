@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/hetx19/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hetx19/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/hetx19/LeetCode_DSA/tree/main/0062-unique-paths/) | Medium |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/hetx19/LeetCode_DSA/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/hetx19/LeetCode_DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/master/0125-valid-palindrome) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/hetx19/LeetCode_DSA/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
@@ -814,4 +817,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/hetx19/LeetCode_DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
