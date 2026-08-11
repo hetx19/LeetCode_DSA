@@ -2,7 +2,7 @@ class Solution {
   public:
 	int maxProfit(vector<int>& prices) {
 		int n = prices.size();
-		vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(2, vector<int> (3, 0)));
+		vector<vector<int>> current(2, vector<int>(3, 0)), next(2, vector<int>(3, 0));
 		
 		for (int index = n - 1; index >= 0; index--) {
 			for (int canBuy = 0; canBuy < 2; canBuy++) {
@@ -10,16 +10,17 @@ class Solution {
 					int profit = 0;
 				
 					if (canBuy) {
-						profit = max(-prices[index] + dp[index + 1][0][cap], dp[index + 1][1][cap]);
+						profit = max(-prices[index] + next[0][cap], next[1][cap]);
 					} else {
-						profit = max(prices[index] + dp[index + 1][1][cap - 1], dp[index + 1][0][cap]);
+						profit = max(prices[index] + next[1][cap - 1], next[0][cap]);
 					}
 				
-					dp[index][canBuy][cap] = profit;
+					current[canBuy][cap] = profit;
 				}
 			}
+			next = current;
 		}
 		
-		return dp[0][true][2];
+		return current[true][2];
 	}
 };
