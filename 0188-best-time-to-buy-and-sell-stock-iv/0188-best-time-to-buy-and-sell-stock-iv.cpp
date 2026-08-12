@@ -4,22 +4,23 @@ public:
         int n = prices.size();
         int maxTransaction = 2 * k;
 
-        vector<vector<int>> dp(n + 1, vector<int>(maxTransaction + 1, 0));
+        vector<int> current(maxTransaction + 1, 0), next(maxTransaction + 1, 0);
 
         for (int index = n - 1; index >= 0; index--) {
             for (int transactionNo = 0; transactionNo < maxTransaction; transactionNo++) {
                 int profit = 0;
 
                 if (transactionNo & 1) {
-                    profit = max(prices[index] + dp[index + 1][transactionNo + 1], dp[index + 1][transactionNo]);
+                    profit = max(prices[index] + next[transactionNo + 1], next[transactionNo]);
                 } else {
-                    profit = max(-prices[index] + dp[index + 1][transactionNo + 1], dp[index + 1][transactionNo]);
+                    profit = max(-prices[index] + next[transactionNo + 1], next[transactionNo]);
                 }
 
-                dp[index][transactionNo] = profit;
+                current[transactionNo] = profit;
             }
+            next = current;
         }
 
-        return dp[0][0];
+        return current[0];
     }
 };
