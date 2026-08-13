@@ -1,44 +1,26 @@
 class Solution {
-private:
-    int solve(vector<int>& prices, int n, int index, bool canBuy, vector<vector<int>>& dp) {
-        if (index >= n) {
-            return 0;
-        }
-
-        if (dp[index][canBuy] != -1) {
-            return dp[index][canBuy];
-        }
-
-        int profit = 0;
-
-        if (canBuy) {
-            profit = max(-prices[index] + solve(prices, n, index + 1, false, dp), solve(prices, n, index + 1, true, dp));
-        } else {
-            profit = max(prices[index] + solve(prices, n, index + 2, true, dp), solve(prices, n, index + 1, false, dp));
-        }
-
-        return dp[index][canBuy] = profit;
-    }
-
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>> dp(n + 2, vector<int>(2, 0));
+        vector<int> current(2, 0), next(2, 0), ahead(2, 0);
 
         for (int index = n - 1; index >= 0; index--) {
             for (int canBuy = 0; canBuy < 2; canBuy++) {
                 int profit = 0;
 
                 if (canBuy) {
-                    profit = max(-prices[index] + dp[index + 1][0], dp[index + 1][1]);
+                    profit = max(-prices[index] + next[0], next[1]);
                 } else {
-                    profit = max(prices[index] + dp[index + 2][1], dp[index + 1][0]);
+                    profit = max(prices[index] + ahead[1], next[0]);
                 }
 
-                dp[index][canBuy] = profit;
+               current[canBuy] = profit;
             }
+
+            ahead = next;
+            next = current;
         }
 
-        return dp[0][1];
+        return current[1];
     }
 };
