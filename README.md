@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/hetx19/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/hetx19/LeetCode_DSA/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/hetx19/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/hetx19/LeetCode_DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/hetx19/LeetCode_DSA/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0090-subsets-ii/) | Medium |
