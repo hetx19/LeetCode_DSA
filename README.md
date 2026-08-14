@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/hetx19/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/hetx19/LeetCode_DSA/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/hetx19/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/hetx19/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hetx19/LeetCode_DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/hetx19/LeetCode_DSA/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/hetx19/LeetCode_DSA/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0090-subsets-ii/) | Medium |
