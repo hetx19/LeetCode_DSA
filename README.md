@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/hetx19/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hetx19/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/hetx19/LeetCode_DSA/tree/main/0062-unique-paths/) | Medium |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/hetx19/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/hetx19/LeetCode_DSA/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/hetx19/LeetCode_DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/master/0125-valid-palindrome) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
