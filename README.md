@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/hetx19/LeetCode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/hetx19/LeetCode_DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/3805-count-caesar-cipher-pairs) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hetx19/LeetCode_DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/hetx19/LeetCode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/hetx19/LeetCode_DSA/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 ## Math
 | Problem Name | Difficulty |
