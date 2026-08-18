@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/hetx19/LeetCode_DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/hetx19/LeetCode_DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1048-longest-string-chain](https://github.com/hetx19/LeetCode_DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hetx19/LeetCode_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hetx19/LeetCode_DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/hetx19/LeetCode_DSA/tree/master/1200-minimum-absolute-difference) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hetx19/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetx19/LeetCode_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/0696-count-binary-substrings/) | Easy |
+| [1048-longest-string-chain](https://github.com/hetx19/LeetCode_DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hetx19/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/hetx19/LeetCode_DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/hetx19/LeetCode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hetx19/LeetCode_DSA/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/hetx19/LeetCode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/hetx19/LeetCode_DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/hetx19/LeetCode_DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/hetx19/LeetCode_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hetx19/LeetCode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hetx19/LeetCode_DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/hetx19/LeetCode_DSA/tree/main/0877-stone-game/) | Medium |
+| [1048-longest-string-chain](https://github.com/hetx19/LeetCode_DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hetx19/LeetCode_DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hetx19/LeetCode_DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/hetx19/LeetCode_DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/hetx19/LeetCode_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -658,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/hetx19/LeetCode_DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0696-count-binary-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0721-accounts-merge](https://github.com/hetx19/LeetCode_DSA/tree/main/0721-accounts-merge/) | Medium |
+| [1048-longest-string-chain](https://github.com/hetx19/LeetCode_DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hetx19/LeetCode_DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
