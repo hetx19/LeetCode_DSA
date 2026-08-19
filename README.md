@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/hetx19/LeetCode_DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/hetx19/LeetCode_DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/hetx19/LeetCode_DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hetx19/LeetCode_DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hetx19/LeetCode_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hetx19/LeetCode_DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/hetx19/LeetCode_DSA/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hetx19/LeetCode_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hetx19/LeetCode_DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hetx19/LeetCode_DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2288-count-operations-to-obtain-zero](https://github.com/hetx19/LeetCode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetx19/LeetCode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hetx19/LeetCode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hetx19/LeetCode_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hetx19/LeetCode_DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hetx19/LeetCode_DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3676-smallest-number-with-all-set-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/3821-find-nth-smallest-integer-with-k-one-bits/) | Hard |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/hetx19/LeetCode_DSA/tree/main/0062-unique-paths/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hetx19/LeetCode_DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/3821-find-nth-smallest-integer-with-k-one-bits/) | Hard |
 ## Number Theory
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/hetx19/LeetCode_DSA/tree/main/1291-sequential-digits/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hetx19/LeetCode_DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/hetx19/LeetCode_DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/hetx19/LeetCode_DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -833,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0494-target-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0494-target-sum/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hetx19/LeetCode_DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
