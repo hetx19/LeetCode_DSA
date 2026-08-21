@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/hetx19/LeetCode_DSA/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0052-n-queens-ii/) | Hard |
+| [0077-combinations](https://github.com/hetx19/LeetCode_DSA/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/hetx19/LeetCode_DSA/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0090-subsets-ii/) | Medium |
