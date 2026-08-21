@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/hetx19/LeetCode_DSA/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hetx19/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3453-separate-squares-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3453-separate-squares-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hetx19/LeetCode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hetx19/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/hetx19/LeetCode_DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3453-separate-squares-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3453-separate-squares-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-network-recovery-pathways](https://github.com/hetx19/LeetCode_DSA/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [3477-fruits-into-baskets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/hetx19/LeetCode_DSA/tree/master/0493-reverse-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/hetx19/LeetCode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetx19/LeetCode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3336-water-bottles-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3336-water-bottles-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
