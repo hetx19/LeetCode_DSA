@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/hetx19/LeetCode_DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
+| [4024-nearest-available-drone](https://github.com/hetx19/LeetCode_DSA/tree/main/4024-nearest-available-drone/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/hetx19/LeetCode_DSA/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/hetx19/LeetCode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/hetx19/LeetCode_DSA/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
+| [4024-nearest-available-drone](https://github.com/hetx19/LeetCode_DSA/tree/main/4024-nearest-available-drone/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
