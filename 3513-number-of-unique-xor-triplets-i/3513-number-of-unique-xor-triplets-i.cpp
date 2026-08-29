@@ -8,10 +8,12 @@ public:
         }
 
         int mask = 0;
-        for (int &num : nums) {
-            mask |= num;
+
+        while(n > 1) {
+            n >>= 1;
+            mask++;
         }
 
-        return mask + 1;
+        return 1 << (mask + 1);
     }
 };
