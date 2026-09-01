@@ -765,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hetx19/LeetCode_DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
