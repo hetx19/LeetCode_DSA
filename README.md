@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/hetx19/LeetCode_DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/hetx19/LeetCode_DSA/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/hetx19/LeetCode_DSA/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/hetx19/LeetCode_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/hetx19/LeetCode_DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/hetx19/LeetCode_DSA/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/hetx19/LeetCode_DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hetx19/LeetCode_DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/hetx19/LeetCode_DSA/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
