@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/hetx19/LeetCode_DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/hetx19/LeetCode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/hetx19/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/hetx19/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/hetx19/LeetCode_DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
