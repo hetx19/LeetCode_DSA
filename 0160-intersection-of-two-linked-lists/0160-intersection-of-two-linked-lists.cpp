@@ -7,40 +7,31 @@
  * };
  */
 class Solution {
-private:
-    ListNode* collisionPoint(ListNode *tempA, ListNode *tempB, int difference) {
-        while (difference > 0) {
-            difference--;
-            tempA = tempA->next;
+public:
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        if (headA == nullptr || headB == nullptr) {
+            return nullptr;
         }
+
+        ListNode *tempA = headA, *tempB = headB;
 
         while (tempA != tempB) {
             tempA = tempA->next;
             tempB = tempB->next;
+
+            if (tempA == tempB) {
+                return tempA;
+            }
+
+            if (tempA == nullptr) {
+                tempA = headB;
+            }
+
+            if (tempB == nullptr) {
+                tempB = headA;
+            }
         }
 
         return tempA;
-    }
-
-public:
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        ListNode *temp1 = headA, *temp2 = headB;
-        int n1 = 0, n2 = 0;
-
-        while (temp1 != nullptr) {
-            n1++;
-            temp1 = temp1->next;
-        }
-
-        while (temp2 != nullptr) {
-            n2++;
-            temp2 = temp2->next;
-        }
-
-        if (n1 > n2) {
-            return collisionPoint(headA, headB, n1 - n2);
-        }
-
-        return collisionPoint(headB, headA, n2 - n1);
     }
 };
