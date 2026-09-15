@@ -9,6 +9,10 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
+        if (head == nullptr || head->next == nullptr) {
+            return nullptr;
+        }
+        
         ListNode *slow = head;
         ListNode *fast = head;
 
