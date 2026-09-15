@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hetx19/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/hetx19/LeetCode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hetx19/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/hetx19/LeetCode_DSA/tree/main/0127-word-ladder/) | Hard |
+| [0142-linked-list-cycle-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/hetx19/LeetCode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/hetx19/LeetCode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/hetx19/LeetCode_DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -983,4 +986,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/hetx19/LeetCode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
