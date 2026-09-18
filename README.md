@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/hetx19/LeetCode_DSA/tree/main/1048-longest-string-chain/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hetx19/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/hetx19/LeetCode_DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/hetx19/LeetCode_DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hetx19/LeetCode_DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
