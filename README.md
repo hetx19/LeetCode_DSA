@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1646-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/hetx19/LeetCode_DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/hetx19/LeetCode_DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/hetx19/LeetCode_DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/hetx19/LeetCode_DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetx19/LeetCode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/hetx19/LeetCode_DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2169-simple-bank-system](https://github.com/hetx19/LeetCode_DSA/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/hetx19/LeetCode_DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/hetx19/LeetCode_DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hetx19/LeetCode_DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hetx19/LeetCode_DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hetx19/LeetCode_DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hetx19/LeetCode_DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
