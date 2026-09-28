@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/hetx19/LeetCode_DSA/tree/main/0127-word-ladder/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/hetx19/LeetCode_DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hetx19/LeetCode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/hetx19/LeetCode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/hetx19/LeetCode_DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/hetx19/LeetCode_DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hetx19/LeetCode_DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0148-sort-list/) | Medium |
