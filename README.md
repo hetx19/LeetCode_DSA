@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-cherry-pickup-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1470-shuffle-the-array](https://github.com/hetx19/LeetCode_DSA/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/hetx19/LeetCode_DSA/tree/main/1472-design-browser-history/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/hetx19/LeetCode_DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hetx19/LeetCode_DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/hetx19/LeetCode_DSA/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/hetx19/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
+| [1472-design-browser-history](https://github.com/hetx19/LeetCode_DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2169-simple-bank-system](https://github.com/hetx19/LeetCode_DSA/tree/master/2169-simple-bank-system) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/hetx19/LeetCode_DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hetx19/LeetCode_DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search Tree
@@ -1020,4 +1024,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hetx19/LeetCode_DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/hetx19/LeetCode_DSA/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/hetx19/LeetCode_DSA/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
