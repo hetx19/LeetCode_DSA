@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/hetx19/LeetCode_DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/hetx19/LeetCode_DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/hetx19/LeetCode_DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/hetx19/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hetx19/LeetCode_DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/hetx19/LeetCode_DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/hetx19/LeetCode_DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/hetx19/LeetCode_DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
