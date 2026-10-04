@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/hetx19/LeetCode_DSA/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/hetx19/LeetCode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
+| [2296-design-a-text-editor](https://github.com/hetx19/LeetCode_DSA/tree/main/2296-design-a-text-editor/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hetx19/LeetCode_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3336-water-bottles-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/3336-water-bottles-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/hetx19/LeetCode_DSA/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2296-design-a-text-editor](https://github.com/hetx19/LeetCode_DSA/tree/main/2296-design-a-text-editor/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hetx19/LeetCode_DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2296-design-a-text-editor](https://github.com/hetx19/LeetCode_DSA/tree/main/2296-design-a-text-editor/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hetx19/LeetCode_DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/hetx19/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [1472-design-browser-history](https://github.com/hetx19/LeetCode_DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2169-simple-bank-system](https://github.com/hetx19/LeetCode_DSA/tree/master/2169-simple-bank-system) |
+| [2296-design-a-text-editor](https://github.com/hetx19/LeetCode_DSA/tree/main/2296-design-a-text-editor/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -824,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/hetx19/LeetCode_DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hetx19/LeetCode_DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2296-design-a-text-editor](https://github.com/hetx19/LeetCode_DSA/tree/main/2296-design-a-text-editor/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1033,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/hetx19/LeetCode_DSA/tree/main/1472-design-browser-history/) | Medium |
+| [2296-design-a-text-editor](https://github.com/hetx19/LeetCode_DSA/tree/main/2296-design-a-text-editor/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
