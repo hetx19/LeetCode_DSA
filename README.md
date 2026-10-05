@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3905-multi-source-flood-fill](https://github.com/hetx19/LeetCode_DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [4024-nearest-available-drone](https://github.com/hetx19/LeetCode_DSA/tree/main/4024-nearest-available-drone/) | Easy |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/hetx19/LeetCode_DSA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/hetx19/LeetCode_DSA/tree/master/3828-final-element-after-subarray-deletions) |
 | [3886-sum-of-sortable-integers](https://github.com/hetx19/LeetCode_DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/hetx19/LeetCode_DSA/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/hetx19/LeetCode_DSA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
