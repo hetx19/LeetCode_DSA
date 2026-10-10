@@ -10,15 +10,13 @@ public:
             mpp[fruits[right]]++;
 
             if (mpp.size() > 2) {
-                while (mpp.size() > 2) {
-                    mpp[fruits[left]]--;
-
-                    if (mpp[fruits[left]] == 0) {
-                        mpp.erase(fruits[left]);
-                    }
-
-                    left++;
+                mpp[fruits[left]]--;
+                
+                if (mpp[fruits[left]] == 0) {
+                    mpp.erase(fruits[left]);
                 }
+
+                left++;
             }
 
             if (mpp.size() <= 2) {
