@@ -5,21 +5,22 @@ public:
         int maxLength = 0;
         int left = 0;
 
-        int converted = 0;
+        int zeros = 0;
 
         for (int right = 0; right < n; right++) {
-            if (nums[right] == 1) {
-                maxLength = max(maxLength, right - left + 1);
-            } else {
-                if (converted < k) {
-                    converted++;
-                } else {
-                    while (nums[left] == 1) {
-                        left++;
-                    }
-                    left++;
+            if (nums[right] == 0) {
+                zeros++;
+            }
+
+            if (zeros > k) {
+                if (nums[left] == 0) {
+                    zeros--;
                 }
-                
+
+                left++;
+            }
+
+            if (zeros <= k) {
                 maxLength = max(maxLength, right - left + 1);
             }
         }
