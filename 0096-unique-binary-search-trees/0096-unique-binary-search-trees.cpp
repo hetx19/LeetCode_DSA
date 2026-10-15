@@ -1,18 +1,16 @@
 class Solution {
-private:
-    long long nCr(int n, int r) {
-        long long ans = 1;
-
-        for (int i = 0; i < r; i++) {
-            ans *= (n - i);
-            ans /= (i + 1);
-        }
-
-        return ans;
-    }
-
 public:
     int numTrees(int n) {
-        return (int)(nCr(2 * n, n) / (n + 1));
+        vector<int> dp(n + 1);
+
+        dp[0] = dp[1] = 1;
+
+        for (int i = 2; i <= n; i++) { 
+            for(int j = 1; j <= i; j++) {
+                dp[i] += dp[j - 1] * dp[i - j];
+            }
+        }
+        
+        return dp[n];
     }
 };
