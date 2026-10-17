@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hetx19/LeetCode_DSA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/hetx19/LeetCode_DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/hetx19/LeetCode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hetx19/LeetCode_DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/hetx19/LeetCode_DSA/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/hetx19/LeetCode_DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/hetx19/LeetCode_DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0494-target-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0494-target-sum/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hetx19/LeetCode_DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Heap (Priority Queue)
