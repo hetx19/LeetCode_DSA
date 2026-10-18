@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/hetx19/LeetCode_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hetx19/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/hetx19/LeetCode_DSA/tree/main/0179-largest-number/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hetx19/LeetCode_DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/hetx19/LeetCode_DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/hetx19/LeetCode_DSA/tree/master/0200-number-of-islands) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hetx19/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0148-sort-list/) | Medium |
+| [0179-largest-number](https://github.com/hetx19/LeetCode_DSA/tree/main/0179-largest-number/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/hetx19/LeetCode_DSA/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/hetx19/LeetCode_DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/hetx19/LeetCode_DSA/tree/master/0645-set-mismatch) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/hetx19/LeetCode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0179-largest-number](https://github.com/hetx19/LeetCode_DSA/tree/main/0179-largest-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hetx19/LeetCode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hetx19/LeetCode_DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/hetx19/LeetCode_DSA/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/hetx19/LeetCode_DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0179-largest-number](https://github.com/hetx19/LeetCode_DSA/tree/main/0179-largest-number/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/hetx19/LeetCode_DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/hetx19/LeetCode_DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
