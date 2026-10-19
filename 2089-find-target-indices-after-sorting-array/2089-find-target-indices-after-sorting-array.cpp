@@ -1,13 +1,21 @@
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
-        sort(nums.begin(), nums.end());
-        int lower = lower_bound(nums.begin(), nums.end(), target) - nums.begin();
-        int upper = upper_bound(nums.begin(), nums.end(), target) - nums.begin();
+        int n = nums.size();
+        int countGreater = 0, countLower = 0;
+
+        for (int &num : nums) {
+            if (num < target) {
+                countLower++;
+            } else if (num > target) {
+                countGreater++;
+            }
+        }
 
         vector<int> ans;
-        for (int i = lower; i < upper; i++) {
-            ans.push_back(i);
+
+        for (int i = 0; i < n - countGreater - countLower; i++) {
+            ans.push_back(i + countLower);
         }
 
         return ans;
