@@ -1,6 +1,8 @@
 class Solution {
 private:
-    bool checkComponent(int start, vector<vector<int>>& graph, int V, vector<int>& color) {
+    bool bfs(const vector<vector<int>> adjList, int start, vector<int>& color) {
+        int V = adjList.size();
+
         queue<int> q;
         q.push(start);
         color[start] = 0;
@@ -9,11 +11,11 @@ private:
             int node = q.front();
             q.pop();
 
-            for (auto it : graph[node]) {
+            for (auto &it : adjList[node]) {
                 if (color[it] == -1) {
-                    color[it] = !color[node];
+                    color[it] = (color[node] == 0) ? 1 : 0;
                     q.push(it);
-                } else if(color[it] == color[node]) {
+                } else if (color[it] == color[node]) {
                     return false;
                 }
             }
@@ -26,10 +28,11 @@ public:
     bool isBipartite(vector<vector<int>>& graph) {
         int V = graph.size();
         vector<int> color(V, -1);
+        bool ans = true;
 
         for (int i = 0; i < V; i++) {
             if (color[i] == -1) {
-                if (checkComponent(i, graph, V, color) == false) {
+                if (!bfs(graph, i, color)) {
                     return false;
                 }
             }
