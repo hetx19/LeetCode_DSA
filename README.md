@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hetx19/LeetCode_DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/hetx19/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/hetx19/LeetCode_DSA/tree/main/0062-unique-paths/) | Medium |
+| [0067-add-binary](https://github.com/hetx19/LeetCode_DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/hetx19/LeetCode_DSA/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/hetx19/LeetCode_DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/hetx19/LeetCode_DSA/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/hetx19/LeetCode_DSA/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/hetx19/LeetCode_DSA/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/hetx19/LeetCode_DSA/tree/main/0067-add-binary/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/hetx19/LeetCode_DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0898-transpose-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/0898-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1260-shift-2d-grid/) | Easy |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hetx19/LeetCode_DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/hetx19/LeetCode_DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/hetx19/LeetCode_DSA/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/hetx19/LeetCode_DSA/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/hetx19/LeetCode_DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/master/0125-valid-palindrome) |
