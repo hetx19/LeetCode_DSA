@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hetx19/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hetx19/LeetCode_DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/hetx19/LeetCode_DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/hetx19/LeetCode_DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0040-combination-sum-ii/) | Medium |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/hetx19/LeetCode_DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/hetx19/LeetCode_DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hetx19/LeetCode_DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/hetx19/LeetCode_DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/hetx19/LeetCode_DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
