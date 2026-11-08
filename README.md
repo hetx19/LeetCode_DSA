@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hetx19/LeetCode_DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/hetx19/LeetCode_DSA/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/hetx19/LeetCode_DSA/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/0338-counting-bits/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/hetx19/LeetCode_DSA/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/hetx19/LeetCode_DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/hetx19/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/hetx19/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/hetx19/LeetCode_DSA/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/hetx19/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/hetx19/LeetCode_DSA/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/hetx19/LeetCode_DSA/tree/master/0693-binary-number-with-alternating-bits) |
