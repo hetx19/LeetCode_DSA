@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hetx19/LeetCode_DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/hetx19/LeetCode_DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/hetx19/LeetCode_DSA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/hetx19/LeetCode_DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hetx19/LeetCode_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/hetx19/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0827-making-a-large-island](https://github.com/hetx19/LeetCode_DSA/tree/main/0827-making-a-large-island/) | Hard |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/hetx19/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/hetx19/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/hetx19/LeetCode_DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0739-daily-temperatures](https://github.com/hetx19/LeetCode_DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hetx19/LeetCode_DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/hetx19/LeetCode_DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/hetx19/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/hetx19/LeetCode_DSA/tree/main/0085-maximal-rectangle/) | Hard |
+| [0739-daily-temperatures](https://github.com/hetx19/LeetCode_DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hetx19/LeetCode_DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Linked List
