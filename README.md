@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hetx19/LeetCode_DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/hetx19/LeetCode_DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/hetx19/LeetCode_DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hetx19/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/hetx19/LeetCode_DSA/tree/main/0127-word-ladder/) | Hard |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/hetx19/LeetCode_DSA/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/hetx19/LeetCode_DSA/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/hetx19/LeetCode_DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/hetx19/LeetCode_DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/hetx19/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/hetx19/LeetCode_DSA/tree/main/0126-word-ladder-ii/) | Hard |
@@ -948,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hetx19/LeetCode_DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/hetx19/LeetCode_DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/hetx19/LeetCode_DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/hetx19/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
