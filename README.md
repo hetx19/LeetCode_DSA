@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hetx19/LeetCode_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hetx19/LeetCode_DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/hetx19/LeetCode_DSA/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hetx19/LeetCode_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/hetx19/LeetCode_DSA/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/hetx19/LeetCode_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hetx19/LeetCode_DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0830-largest-triangle-area](https://github.com/hetx19/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [0877-stone-game](https://github.com/hetx19/LeetCode_DSA/tree/main/0877-stone-game/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hetx19/LeetCode_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/hetx19/LeetCode_DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hetx19/LeetCode_DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hetx19/LeetCode_DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/hetx19/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hetx19/LeetCode_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hetx19/LeetCode_DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/hetx19/LeetCode_DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/hetx19/LeetCode_DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hetx19/LeetCode_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/hetx19/LeetCode_DSA/tree/main/1048-longest-string-chain/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hetx19/LeetCode_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/hetx19/LeetCode_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hetx19/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hetx19/LeetCode_DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -962,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hetx19/LeetCode_DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/hetx19/LeetCode_DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/hetx19/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hetx19/LeetCode_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hetx19/LeetCode_DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hetx19/LeetCode_DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hetx19/LeetCode_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
