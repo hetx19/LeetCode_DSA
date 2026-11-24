@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/hetx19/LeetCode_DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/hetx19/LeetCode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hetx19/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0223-rectangle-area](https://github.com/hetx19/LeetCode_DSA/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/hetx19/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hetx19/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hetx19/LeetCode_DSA/tree/master/0342-power-of-four) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/hetx19/LeetCode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0223-rectangle-area](https://github.com/hetx19/LeetCode_DSA/tree/main/0223-rectangle-area/) | Medium |
 | [0830-largest-triangle-area](https://github.com/hetx19/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hetx19/LeetCode_DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Combinatorics
