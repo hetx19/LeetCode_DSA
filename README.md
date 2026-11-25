@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/hetx19/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0223-rectangle-area](https://github.com/hetx19/LeetCode_DSA/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/hetx19/LeetCode_DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/hetx19/LeetCode_DSA/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/hetx19/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hetx19/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/hetx19/LeetCode_DSA/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/hetx19/LeetCode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/hetx19/LeetCode_DSA/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/hetx19/LeetCode_DSA/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/hetx19/LeetCode_DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0898-transpose-matrix](https://github.com/hetx19/LeetCode_DSA/tree/master/0898-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/hetx19/LeetCode_DSA/tree/main/1260-shift-2d-grid/) | Easy |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/hetx19/LeetCode_DSA/tree/main/0258-add-digits/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/hetx19/LeetCode_DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hetx19/LeetCode_DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hetx19/LeetCode_DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
