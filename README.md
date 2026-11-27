@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/hetx19/LeetCode_DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/hetx19/LeetCode_DSA/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hetx19/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/hetx19/LeetCode_DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0223-rectangle-area](https://github.com/hetx19/LeetCode_DSA/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/hetx19/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hetx19/LeetCode_DSA/tree/main/0258-add-digits/) | Easy |
